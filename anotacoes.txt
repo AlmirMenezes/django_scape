@@ -1,0 +1,5 @@
+para criar o requirements
+pip freeze > requirements.txt
+
+para criar o projeto django-admin startproject setup .
+IMPORANTE COLOCAR O PONTO NO FINAL PARA NÃO CRIAR UMA SUB PASTA
